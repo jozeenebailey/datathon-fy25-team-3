@@ -3,6 +3,7 @@ Datathon FY25 Submission from Team 3
 
 Tentative Folder Structure:
 
+```bash
 ├── data
 │   ├── clean_data.csv
 ├── code
@@ -16,3 +17,4 @@ Tentative Folder Structure:
 ├── presentation
 ├── README.md
 └── .gitignore
+```
